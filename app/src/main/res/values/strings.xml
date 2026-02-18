@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecureGuard</string>
+    <string name="accessibility_description">This service is required for device security and parental monitoring.</string>
+</resources>
